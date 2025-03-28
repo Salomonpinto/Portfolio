@@ -1,6 +1,6 @@
 # Portfolio
 
-Salomón Pinto
+
 Este es mi portafolio web, un espacio donde muestro mi trabajo, experiencia y habilidades en diseño UX/UI, desarrollo web y optimización de sistemas.
 
 🌐 Tecnologías utilizadas
